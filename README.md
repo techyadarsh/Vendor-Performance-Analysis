@@ -1,7 +1,7 @@
 
 # Vendor Performance Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 This project provides a comprehensive framework for analyzing vendor performance, offering critical insights into purchasing patterns, sales effectiveness, and profitability. By integrating data from various sources (purchases, sales, and vendor invoices), we aim to identify top-performing vendors, understand factors influencing profit margins, and ultimately optimize supply chain strategies.
 
