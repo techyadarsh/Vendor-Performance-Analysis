@@ -93,6 +93,7 @@ Based on the `Vendor_Performance_Analysis.ipynb` notebook, an example key findin
 ## 🤝 Contributing
 
 Contributions are welcome\! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
+For more details visit https://techyadarsh.in/
 
 ## 📄 License
 
