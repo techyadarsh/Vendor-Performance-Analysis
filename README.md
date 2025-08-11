@@ -15,7 +15,8 @@ This project provides a comprehensive framework for analyzing vendor performance
   * **Modular Codebase:** Organized into distinct Python scripts for data ingestion, summary generation, and analysis, promoting maintainability and scalability.
 
 
-![Vendor Performance Analysis.png](scripts/Vendor Performance Analysis.png)
+![Vendor Performance Analysis](scripts/Vendor%20Performance%20Analysis.png)
+
 
 
 ## 🛠️ Technologies Used
