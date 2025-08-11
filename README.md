@@ -14,6 +14,10 @@ This project provides a comprehensive framework for analyzing vendor performance
   * **Interactive Visualizations:** Utilizes `matplotlib` and `seaborn` to generate insightful plots, aiding in trend identification and decision-making.
   * **Modular Codebase:** Organized into distinct Python scripts for data ingestion, summary generation, and analysis, promoting maintainability and scalability.
 
+
+![Vendor Performance Analysis.png](scripts/Vendor Performance Analysis.png)
+
+
 ## 🛠️ Technologies Used
 
   * Python
